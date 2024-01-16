@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 70px;
+  background-color: white;
+  margin-bottom: 60px;
+}
+
+main div{
+  margin: 30px;
+}
+
+
+h1{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 40px;
+  margin-top: 15px;
+}
+
+
+header.logo img{
+  vertical-align: middle;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+hr#linea{
+  border: 2px solid rgb(from white 246,248,249);
+  margin-left: -100px;
+  margin-bottom: 40px;
+}
+
+
+.container{
+  max-width: 1000px;
+  margin: 0;
+  background-color: white;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 10px;
+}
+
+.button{
+  display: inline-block;
+  max-height: 50px;
+}
+
+
+
+
+
+
