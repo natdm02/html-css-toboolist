@@ -106,12 +106,25 @@ h3{
   background-color:#45ABEA; ;
 }
 
+
 .badge.q1{
   background-color: #9C73E4;
 }
 
-.badge.recluting{
-background-color: #64C1AA;
+.badge.recruiting{
+background-color: #079874;
+}
+
+.badge.mobile{
+  background-color: rgb(234, 152, 1);
+}
+
+.badge.website{
+  background-color: rgb(202, 120, 134);
+}
+
+.badge.sales{
+  background-color: rgb(177, 203, 4);
 }
 
 header{
