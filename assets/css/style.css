@@ -5,148 +5,21 @@
 }
 
 body{
-  height: 70px;
-  background-color: white;
-  margin-bottom: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  height:#414650;
+  background-color:#F6F8F9;
 }
-
-main div{
-  margin: 30px;
-}
-
-
-h1{
-  display: inline-block;
-  vertical-align: middle;
-  font-size: 40px;
-  margin-top: 15px;
-}
-
-
-header.logo img{
-  vertical-align: middle;
-  margin-top: 20px;
-  margin-left: 20px;
-}
-
-hr#linea{
-  border: 2px solid rgb(from white 246,248,249);
-  margin-left: -100px;
-  margin-bottom: 40px;
-}
-
 
 .container{
-  max-width: 1000px;
-  margin: 0;
-  background-color: white;
-  padding-left: 60px;
-  padding-top: 20px;
-  padding-bottom: 30px;
-  border-radius: 10px;
-}
-
-.button{
-  display: inline-block;
-  max-height: 50px;
-  padding: 10px;
-  margin: 3px;
+  width: 950px;
+  background-color:#fff; ;
+  margin: 50px auto;
   border-radius: 5px;
-  margin-bottom: 20px;
-}
-
-
-.button span{
-  text-align: center;
-}
-
-
-.button-task{
-  background-color: rgb(from blue 71, 173, 241);
-  color:white
-}
-
-.button#selection{
-  padding: 8px;
-  border-color:rgb(from white 211, 215, 219);
-  color:rgb(from white 211, 215, 219);
-  border-width: 2px;
-  border-style: solid;
-}
-
-.task{
 
 }
 
-.circle{
-  display: inline-block;
-  height: 15px;
-  width: 15px;
-  text-align: center;
-
-  border-radius: 50%;
-  border: 1px;
-  border-style: solid;
-
-  font-size: 10px;
-  margin-right: 10px;
-  margin: 15px;
-}
-
-.circle#check{
-  border-color: green;
-  color: green;
-}
-
-
-.circle#cross{
-  border-color: red;
-  color: red;
-}
-
-
-
-.type{
-  color: white;
-  display: inline-block;
-  text-align: center;
-  width: 80px;
-  padding: 6px;
-  margin: 5px;
-  border-radius: 13px;
-  font-size: 14px;
-  font-weight: 600;
-}
-
-.type#editorial{
-  background-color: rgb(from blue 69, 171, 234);
-}
-
-.type#goals{
-  background-color: rgb(from pink 156, 114, 228);
-}
-
-
-.type#recruiting{
-  background-color: rgb(from green 100, 192, 169);
-}
-
-
-.type#mobile{
-  background-color: rgb(from orange 242 158 51);
-}
-
-.type#web{
- background-color: rgb(from pink 216 99 161);
-}
-
-
-
-.type#sales{
-  background-color: rgb(from yellow 171 201 38);
-}
-
-
+.container .top
+.container .bottom{}
 
 
 
